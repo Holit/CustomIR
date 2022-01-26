@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">灯光遥控器</string>
+    <string name="nightlight">夜灯</string>
+    <string name="On">开</string>
+    <string name="Off">关</string>
+    <string name="uparrow">⬆</string>
+    <string name="leftarrow">⬅</string>
+    <string name="lightness">亮度</string>
+    <string name="rightarrow">➡</string>
+    <string name="downarrow">⬇</string>
+    <string name="auxiliary1">辅助光源1</string>
+    <string name="auxiliary2">辅助光源2</string>
+    <string name="auxiliary3">辅助光源3</string>
+    <string name="warmth_decrease">色温-</string>
+    <string name="warmth_increase">色温+</string>
+    <string name="segement">分段</string>
+    <string name="info_1">如果灯具无响应，请确认电源开关已打开</string>
+    <string name="author">Designed by Jerry</string>
+</resources>
